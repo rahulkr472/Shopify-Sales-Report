@@ -28,4 +28,5 @@ This Power BI dashboard provides detailed analysis of Shopify sales data, helpin
 - **DAX** – Custom measures (LTV, AOV, repeat rate)  
 - **Excel** – Data source preparation  
 - **Data Handling** – Slicers, filters, drill-down visuals
+- **SQL** - Use SQL to extract use full insight from the data.
 
